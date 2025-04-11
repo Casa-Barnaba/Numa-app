@@ -1,0 +1,1 @@
+// Numa Web App: Service worker script

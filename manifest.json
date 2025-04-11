@@ -1,0 +1,6 @@
+{
+  "name": "Numa",
+  "short_name": "Numa",
+  "start_url": ".",
+  "display": "standalone"
+}
